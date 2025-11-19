@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Toleugazy
-- 👀 I’m interested in Laravel(Swoole), Vue, Go.
+- 👀 I’m interested in Laravel(Swoole) -> Go,Rust, Vue -> React.
 - 🌱 I’m currently learning Swoole, ws.
 - 💞️ I’m looking to collaborate on Symfony based projects
 - 📫 almatytol@gmail.com
